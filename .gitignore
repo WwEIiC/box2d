@@ -8,6 +8,9 @@ out/
 
 
 ## self
+.vs/
 bin/
 bin-int/
 **.vcxproj
+**.filters
+**.user
